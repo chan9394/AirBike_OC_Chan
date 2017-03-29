@@ -1,0 +1,29 @@
+# Uncomment the next line to define a global platform for your project
+#platform :ios, '9.0'
+
+target 'AirBk' do
+    pod 'AFNetworking'
+    pod 'AMap3DMap'
+    pod 'AMapFoundation', '~>1.3.4'
+    pod 'AMapSearch'
+    pod 'MBProgressHUD'
+    pod 'SDWebImage'
+    pod 'Bugly'
+    # U-Share SDK UI模块（分享面板，建议添加）
+    pod 'UMengUShare/UI'
+    pod 'YYModel'
+    pod 'SAMKeychain'
+
+    # 集成新浪微博
+    pod 'UMengUShare/Social/Sina'
+
+    # 集成微信
+    pod 'UMengUShare/Social/WeChat'
+
+    # 集成QQ
+    pod 'UMengUShare/Social/QQ'
+
+    # 集成支付宝
+    pod 'UMengUShare/Social/AlipayShare'
+    
+end

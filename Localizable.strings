@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  AirBk
+
+  Created by Damo on 16/12/23.
+  Copyright © 2016年 ZHH. All rights reserved.
+*/
+//主页面
+"documentTitle" = "使用说明";
+
+//手机验证
+"protocolTitle" = "用户协议";
+//实名认证
+"RealNameTitle" = "实名认证";
+

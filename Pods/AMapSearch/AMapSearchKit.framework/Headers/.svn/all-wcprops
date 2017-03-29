@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Pods/AMapSearch/AMapSearchKit.framework/Headers
+END
+AMapSearchVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Pods/AMapSearch/AMapSearchKit.framework/Headers/AMapSearchVersion.h
+END
+AMapSearchKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Pods/AMapSearch/AMapSearchKit.framework/Headers/AMapSearchKit.h
+END
+AMapSearchAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Pods/AMapSearch/AMapSearchKit.framework/Headers/AMapSearchAPI.h
+END
+AMapSearchError.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Pods/AMapSearch/AMapSearchKit.framework/Headers/AMapSearchError.h
+END
+AMapSearchObj.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Pods/AMapSearch/AMapSearchKit.framework/Headers/AMapSearchObj.h
+END
+AMapNearbySearchManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Pods/AMapSearch/AMapSearchKit.framework/Headers/AMapNearbySearchManager.h
+END
+AMapNearbyUploadInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Pods/AMapSearch/AMapSearchKit.framework/Headers/AMapNearbyUploadInfo.h
+END
+AMapCommonObj.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Pods/AMapSearch/AMapSearchKit.framework/Headers/AMapCommonObj.h
+END

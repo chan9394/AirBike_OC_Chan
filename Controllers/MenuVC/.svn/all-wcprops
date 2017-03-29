@@ -1,0 +1,419 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/xbike/!svn/ver/366/client_ios/source/Airbike/Controllers/MenuVC
+END
+MenuVCRootVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/xbike/!svn/ver/123/client_ios/source/Airbike/Controllers/MenuVC/MenuVCRootVC.h
+END
+ZHHChangePhoneNumVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/xbike/!svn/ver/274/client_ios/source/Airbike/Controllers/MenuVC/ZHHChangePhoneNumVC.xib
+END
+AirPowerCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/xbike/!svn/ver/359/client_ios/source/Airbike/Controllers/MenuVC/AirPowerCell.m
+END
+MenuVCRootVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/xbike/!svn/ver/351/client_ios/source/Airbike/Controllers/MenuVC/MenuVCRootVC.m
+END
+RechargeSuccessVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/xbike/!svn/ver/145/client_ios/source/Airbike/Controllers/MenuVC/RechargeSuccessVC.h
+END
+ZHHMyWalletViC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/xbike/!svn/ver/319/client_ios/source/Airbike/Controllers/MenuVC/ZHHMyWalletViC.xib
+END
+RechargeSuccessVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/xbike/!svn/ver/286/client_ios/source/Airbike/Controllers/MenuVC/RechargeSuccessVC.m
+END
+RegisterSuccess.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/xbike/!svn/ver/273/client_ios/source/Airbike/Controllers/MenuVC/RegisterSuccess.xib
+END
+ZHHDepositVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/xbike/!svn/ver/132/client_ios/source/Airbike/Controllers/MenuVC/ZHHDepositVC.h
+END
+RegisterSuccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/xbike/!svn/ver/273/client_ios/source/Airbike/Controllers/MenuVC/RegisterSuccess.h
+END
+ZHHDepositVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/xbike/!svn/ver/359/client_ios/source/Airbike/Controllers/MenuVC/ZHHDepositVC.m
+END
+AirPowerTC.storyboard
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/xbike/!svn/ver/359/client_ios/source/Airbike/Controllers/MenuVC/AirPowerTC.storyboard
+END
+RegisterSuccess.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/xbike/!svn/ver/316/client_ios/source/Airbike/Controllers/MenuVC/RegisterSuccess.m
+END
+ZHHRealNameVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/xbike/!svn/ver/160/client_ios/source/Airbike/Controllers/MenuVC/ZHHRealNameVC.xib
+END
+ZHHRealNameVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/xbike/!svn/ver/122/client_ios/source/Airbike/Controllers/MenuVC/ZHHRealNameVC.h
+END
+shareView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/xbike/!svn/ver/263/client_ios/source/Airbike/Controllers/MenuVC/shareView.xib
+END
+ZHHRealNameVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/xbike/!svn/ver/268/client_ios/source/Airbike/Controllers/MenuVC/ZHHRealNameVC.m
+END
+myNibs.xib
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/xbike/!svn/ver/234/client_ios/source/Airbike/Controllers/MenuVC/myNibs.xib
+END
+ZHHCompleteAddressSucceVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/xbike/!svn/ver/210/client_ios/source/Airbike/Controllers/MenuVC/ZHHCompleteAddressSucceVC.xib
+END
+ZHHInviteFriVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/xbike/!svn/ver/140/client_ios/source/Airbike/Controllers/MenuVC/ZHHInviteFriVC.h
+END
+ZHHInviteFriVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/xbike/!svn/ver/309/client_ios/source/Airbike/Controllers/MenuVC/ZHHInviteFriVC.m
+END
+ZHHMyNewsTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/xbike/!svn/ver/145/client_ios/source/Airbike/Controllers/MenuVC/ZHHMyNewsTVC.h
+END
+ZHHwlaaetDetailCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/xbike/!svn/ver/231/client_ios/source/Airbike/Controllers/MenuVC/ZHHwlaaetDetailCell.h
+END
+ZHHMyNewsTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/xbike/!svn/ver/234/client_ios/source/Airbike/Controllers/MenuVC/ZHHMyNewsTVC.m
+END
+AirPowerTC.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/xbike/!svn/ver/344/client_ios/source/Airbike/Controllers/MenuVC/AirPowerTC.h
+END
+ZHHwlaaetDetailCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/xbike/!svn/ver/231/client_ios/source/Airbike/Controllers/MenuVC/ZHHwlaaetDetailCell.m
+END
+AirPowerLossVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/xbike/!svn/ver/359/client_ios/source/Airbike/Controllers/MenuVC/AirPowerLossVC.h
+END
+ZHHChangePhoneVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/xbike/!svn/ver/140/client_ios/source/Airbike/Controllers/MenuVC/ZHHChangePhoneVC.h
+END
+MenuLoginTC.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/xbike/!svn/ver/243/client_ios/source/Airbike/Controllers/MenuVC/MenuLoginTC.h
+END
+AirPowerTC.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/xbike/!svn/ver/366/client_ios/source/Airbike/Controllers/MenuVC/AirPowerTC.m
+END
+AirPowerLossVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/xbike/!svn/ver/359/client_ios/source/Airbike/Controllers/MenuVC/AirPowerLossVC.m
+END
+ZHHChangePhoneVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/xbike/!svn/ver/276/client_ios/source/Airbike/Controllers/MenuVC/ZHHChangePhoneVC.m
+END
+MenuLoginTC.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/xbike/!svn/ver/305/client_ios/source/Airbike/Controllers/MenuVC/MenuLoginTC.m
+END
+ZHHMyNewsCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Controllers/MenuVC/ZHHMyNewsCell.h
+END
+ZHHRechargeWalletVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/xbike/!svn/ver/142/client_ios/source/Airbike/Controllers/MenuVC/ZHHRechargeWalletVC.h
+END
+RechargeSuccessVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/xbike/!svn/ver/215/client_ios/source/Airbike/Controllers/MenuVC/RechargeSuccessVC.xib
+END
+ZHHMyNewsCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Controllers/MenuVC/ZHHMyNewsCell.m
+END
+ZHHRechargeWalletVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/xbike/!svn/ver/300/client_ios/source/Airbike/Controllers/MenuVC/ZHHRechargeWalletVC.m
+END
+ZHHChangePhoneNumVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/xbike/!svn/ver/143/client_ios/source/Airbike/Controllers/MenuVC/ZHHChangePhoneNumVC.h
+END
+ZHHDepositVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/xbike/!svn/ver/270/client_ios/source/Airbike/Controllers/MenuVC/ZHHDepositVC.xib
+END
+ZHHChangePhoneNumVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/xbike/!svn/ver/289/client_ios/source/Airbike/Controllers/MenuVC/ZHHChangePhoneNumVC.m
+END
+ZHHMyWalletViC.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/xbike/!svn/ver/125/client_ios/source/Airbike/Controllers/MenuVC/ZHHMyWalletViC.h
+END
+ZHHCompleteAddressVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/xbike/!svn/ver/359/client_ios/source/Airbike/Controllers/MenuVC/ZHHCompleteAddressVC.xib
+END
+ZHHMyWalletViC.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/xbike/!svn/ver/341/client_ios/source/Airbike/Controllers/MenuVC/ZHHMyWalletViC.m
+END
+ZHHCompleteAddressVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/xbike/!svn/ver/133/client_ios/source/Airbike/Controllers/MenuVC/ZHHCompleteAddressVC.h
+END
+ZHHUserInfoTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/xbike/!svn/ver/143/client_ios/source/Airbike/Controllers/MenuVC/ZHHUserInfoTVC.h
+END
+ZHHChangeNameVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/xbike/!svn/ver/272/client_ios/source/Airbike/Controllers/MenuVC/ZHHChangeNameVC.xib
+END
+ZHHCompleteAddressVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/xbike/!svn/ver/359/client_ios/source/Airbike/Controllers/MenuVC/ZHHCompleteAddressVC.m
+END
+ZHHUserInfoTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/xbike/!svn/ver/276/client_ios/source/Airbike/Controllers/MenuVC/ZHHUserInfoTVC.m
+END
+ZHHChangeNameVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/xbike/!svn/ver/160/client_ios/source/Airbike/Controllers/MenuVC/ZHHChangeNameVC.h
+END
+ZHHMyJourneysCellView.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/xbike/!svn/ver/231/client_ios/source/Airbike/Controllers/MenuVC/ZHHMyJourneysCellView.h
+END
+ZHHInviteFriVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/xbike/!svn/ver/252/client_ios/source/Airbike/Controllers/MenuVC/ZHHInviteFriVC.xib
+END
+ZHHChangeNameVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/xbike/!svn/ver/265/client_ios/source/Airbike/Controllers/MenuVC/ZHHChangeNameVC.m
+END
+ZHHMyJourneysCellView.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/xbike/!svn/ver/234/client_ios/source/Airbike/Controllers/MenuVC/ZHHMyJourneysCellView.m
+END
+ZHHCompleteAddressSucceVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/xbike/!svn/ver/133/client_ios/source/Airbike/Controllers/MenuVC/ZHHCompleteAddressSucceVC.h
+END
+ZHHPortablePowerSourceVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/xbike/!svn/ver/337/client_ios/source/Airbike/Controllers/MenuVC/ZHHPortablePowerSourceVC.xib
+END
+ZHHwlaaetDetailCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/xbike/!svn/ver/328/client_ios/source/Airbike/Controllers/MenuVC/ZHHwlaaetDetailCell.xib
+END
+ZHHMyWalletDetailTVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/xbike/!svn/ver/142/client_ios/source/Airbike/Controllers/MenuVC/ZHHMyWalletDetailTVC.h
+END
+ZHHCompleteAddressSucceVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/xbike/!svn/ver/276/client_ios/source/Airbike/Controllers/MenuVC/ZHHCompleteAddressSucceVC.m
+END
+ZHHPortablePowerSourceVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/xbike/!svn/ver/132/client_ios/source/Airbike/Controllers/MenuVC/ZHHPortablePowerSourceVC.h
+END
+ZHHReisterLogOnVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/xbike/!svn/ver/302/client_ios/source/Airbike/Controllers/MenuVC/ZHHReisterLogOnVC.xib
+END
+ZHHChangePhoneVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/xbike/!svn/ver/171/client_ios/source/Airbike/Controllers/MenuVC/ZHHChangePhoneVC.xib
+END
+AirPowerLossVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/xbike/!svn/ver/359/client_ios/source/Airbike/Controllers/MenuVC/AirPowerLossVC.xib
+END
+ZHHMyWalletDetailTVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/xbike/!svn/ver/286/client_ios/source/Airbike/Controllers/MenuVC/ZHHMyWalletDetailTVC.m
+END
+ZHHPortablePowerSourceVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/xbike/!svn/ver/341/client_ios/source/Airbike/Controllers/MenuVC/ZHHPortablePowerSourceVC.m
+END
+ZHHReisterLogOnVC.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/xbike/!svn/ver/240/client_ios/source/Airbike/Controllers/MenuVC/ZHHReisterLogOnVC.h
+END
+ZHHReisterLogOnVC.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/xbike/!svn/ver/316/client_ios/source/Airbike/Controllers/MenuVC/ZHHReisterLogOnVC.m
+END
+ZHHRechargeWalletVC.xib
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/xbike/!svn/ver/215/client_ios/source/Airbike/Controllers/MenuVC/ZHHRechargeWalletVC.xib
+END
+AirPowerCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/xbike/!svn/ver/359/client_ios/source/Airbike/Controllers/MenuVC/AirPowerCell.h
+END

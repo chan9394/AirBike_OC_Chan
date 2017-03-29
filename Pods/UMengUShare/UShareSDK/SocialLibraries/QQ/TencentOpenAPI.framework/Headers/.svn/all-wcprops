@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/xbike/!svn/ver/171/client_ios/source/Airbike/Pods/UMengUShare/UShareSDK/SocialLibraries/QQ/TencentOpenAPI.framework/Headers
+END
+TencentApiInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/xbike/!svn/ver/171/client_ios/source/Airbike/Pods/UMengUShare/UShareSDK/SocialLibraries/QQ/TencentOpenAPI.framework/Headers/TencentApiInterface.h
+END
+QQApiInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/xbike/!svn/ver/171/client_ios/source/Airbike/Pods/UMengUShare/UShareSDK/SocialLibraries/QQ/TencentOpenAPI.framework/Headers/QQApiInterface.h
+END
+TencentMessageObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/xbike/!svn/ver/171/client_ios/source/Airbike/Pods/UMengUShare/UShareSDK/SocialLibraries/QQ/TencentOpenAPI.framework/Headers/TencentMessageObject.h
+END
+sdkdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/xbike/!svn/ver/171/client_ios/source/Airbike/Pods/UMengUShare/UShareSDK/SocialLibraries/QQ/TencentOpenAPI.framework/Headers/sdkdef.h
+END
+TencentOAuth.h
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/xbike/!svn/ver/171/client_ios/source/Airbike/Pods/UMengUShare/UShareSDK/SocialLibraries/QQ/TencentOpenAPI.framework/Headers/TencentOAuth.h
+END
+QQApiInterfaceObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/xbike/!svn/ver/171/client_ios/source/Airbike/Pods/UMengUShare/UShareSDK/SocialLibraries/QQ/TencentOpenAPI.framework/Headers/QQApiInterfaceObject.h
+END
+TencentOAuthObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/xbike/!svn/ver/171/client_ios/source/Airbike/Pods/UMengUShare/UShareSDK/SocialLibraries/QQ/TencentOpenAPI.framework/Headers/TencentOAuthObject.h
+END

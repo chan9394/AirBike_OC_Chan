@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/xbike/!svn/ver/366/client_ios/source/Airbike/Models
+END
+MANaviRoute.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/xbike/!svn/ver/231/client_ios/source/Airbike/Models/MANaviRoute.h
+END
+ZHHUploadBikeProModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/ZHHUploadBikeProModel.h
+END
+ZHHUserDetailInfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/xbike/!svn/ver/113/client_ios/source/Airbike/Models/ZHHUserDetailInfo.m
+END
+ZHHgetCyclingStatusModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/ZHHgetCyclingStatusModel.m
+END
+UserModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/xbike/!svn/ver/316/client_ios/source/Airbike/Models/UserModel.h
+END
+MANaviRoute.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/MANaviRoute.m
+END
+ZHHUploadBikeProModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/ZHHUploadBikeProModel.m
+END
+LineDashPolyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/LineDashPolyline.h
+END
+UserModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/xbike/!svn/ver/316/client_ios/source/Airbike/Models/UserModel.m
+END
+BalanceModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/xbike/!svn/ver/231/client_ios/source/Airbike/Models/BalanceModel.h
+END
+ZHHWalletDetailModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/ZHHWalletDetailModel.h
+END
+SearchHistoryModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/xbike/!svn/ver/328/client_ios/source/Airbike/Models/SearchHistoryModel.h
+END
+LineDashPolyline.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/LineDashPolyline.m
+END
+ZHHWalletDetailModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/ZHHWalletDetailModel.m
+END
+BalanceModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/xbike/!svn/ver/231/client_ios/source/Airbike/Models/BalanceModel.m
+END
+ZHHRechargeModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/xbike/!svn/ver/231/client_ios/source/Airbike/Models/ZHHRechargeModel.h
+END
+ZHHTrackInfoModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/xbike/!svn/ver/322/client_ios/source/Airbike/Models/ZHHTrackInfoModel.h
+END
+SearchHistoryModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/xbike/!svn/ver/366/client_ios/source/Airbike/Models/SearchHistoryModel.m
+END
+ZHHTrackInfoModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/xbike/!svn/ver/231/client_ios/source/Airbike/Models/ZHHTrackInfoModel.m
+END
+ZHHRechargeModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/xbike/!svn/ver/231/client_ios/source/Airbike/Models/ZHHRechargeModel.m
+END
+MANaviPolyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/xbike/!svn/ver/79/client_ios/source/Airbike/Models/MANaviPolyline.h
+END
+AccountManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/xbike/!svn/ver/289/client_ios/source/Airbike/Models/AccountManager.h
+END
+PlanResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/PlanResult.h
+END
+MANaviPolyline.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/MANaviPolyline.m
+END
+AccountManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/xbike/!svn/ver/289/client_ios/source/Airbike/Models/AccountManager.m
+END
+PlanResult.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/xbike/!svn/ver/231/client_ios/source/Airbike/Models/PlanResult.m
+END
+RidingStatusModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/xbike/!svn/ver/286/client_ios/source/Airbike/Models/RidingStatusModel.h
+END
+RechageDetailModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/xbike/!svn/ver/322/client_ios/source/Airbike/Models/RechageDetailModel.h
+END
+ZHHGetUserInfoMod.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/ZHHGetUserInfoMod.h
+END
+ZHHPostAddress.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/xbike/!svn/ver/133/client_ios/source/Airbike/Models/ZHHPostAddress.h
+END
+ZHHBikeModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/xbike/!svn/ver/215/client_ios/source/Airbike/Models/ZHHBikeModel.h
+END
+RidingStatusModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/xbike/!svn/ver/286/client_ios/source/Airbike/Models/RidingStatusModel.m
+END
+MANaviAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/MANaviAnnotation.h
+END
+ZHHReportModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/xbike/!svn/ver/140/client_ios/source/Airbike/Models/ZHHReportModel.h
+END
+RechageDetailModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/xbike/!svn/ver/231/client_ios/source/Airbike/Models/RechageDetailModel.m
+END
+AirPowerModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/xbike/!svn/ver/359/client_ios/source/Airbike/Models/AirPowerModel.h
+END
+ZHHGetUserInfoMod.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/ZHHGetUserInfoMod.m
+END
+ZHHUserModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/xbike/!svn/ver/79/client_ios/source/Airbike/Models/ZHHUserModel.h
+END
+ZHHBikeModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/ZHHBikeModel.m
+END
+ZHHPostAddress.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/ZHHPostAddress.m
+END
+MANaviAnnotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/MANaviAnnotation.m
+END
+ZHHReportModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/ZHHReportModel.m
+END
+CommonUtility.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/CommonUtility.h
+END
+ZHHLogModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/xbike/!svn/ver/210/client_ios/source/Airbike/Models/ZHHLogModel.h
+END
+AirPowerModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/xbike/!svn/ver/359/client_ios/source/Airbike/Models/AirPowerModel.m
+END
+ZHHUserModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/ZHHUserModel.m
+END
+ZHHBalanceModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/xbike/!svn/ver/125/client_ios/source/Airbike/Models/ZHHBalanceModel.h
+END
+TrackListModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/xbike/!svn/ver/231/client_ios/source/Airbike/Models/TrackListModel.h
+END
+CommonUtility.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/CommonUtility.m
+END
+ZHHLogModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/xbike/!svn/ver/132/client_ios/source/Airbike/Models/ZHHLogModel.m
+END
+POIAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/xbike/!svn/ver/318/client_ios/source/Airbike/Models/POIAnnotation.h
+END
+HintModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/xbike/!svn/ver/305/client_ios/source/Airbike/Models/HintModel.h
+END
+ZHHNewsInfoModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/xbike/!svn/ver/79/client_ios/source/Airbike/Models/ZHHNewsInfoModel.h
+END
+ZHHBalanceModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/ZHHBalanceModel.m
+END
+TrackListModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/xbike/!svn/ver/231/client_ios/source/Airbike/Models/TrackListModel.m
+END
+POIAnnotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/xbike/!svn/ver/319/client_ios/source/Airbike/Models/POIAnnotation.m
+END
+ZHHUserDetailInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/ZHHUserDetailInfo.h
+END
+ZHHgetCyclingStatusModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/xbike/!svn/ver/257/client_ios/source/Airbike/Models/ZHHgetCyclingStatusModel.h
+END
+HintModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/xbike/!svn/ver/305/client_ios/source/Airbike/Models/HintModel.m
+END
+ZHHNewsInfoModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/xbike/!svn/ver/76/client_ios/source/Airbike/Models/ZHHNewsInfoModel.m
+END

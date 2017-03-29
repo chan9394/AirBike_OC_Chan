@@ -1,0 +1,103 @@
+//
+//  HHPch.pch
+//  Mobike
+//
+//  Created by 郑洪浩 on 16/10/13.
+//  Copyright © 2016年 ZHH. All rights reserved.
+//
+
+#ifndef HHPch_pch
+#define HHPch_pch
+/************ 预编译时每个类文件中都会导入的文档或宏定义************/
+#import "UIView+HHVIew.h"
+#import "HHProgressHUD.h"
+#import "ZHHAnimation.h"
+#import <MAMapKit/MAMapKit.h>
+#import <AMapSearchKit/AMapSearchKit.h>
+#import <YYModel.h>
+#import "ZHHUserInfo.h"
+#import "NetworkTools.h"
+#import "NSString+ZHHEncode.h"
+#import "UIViewController+NavBar.h"
+#import "ScreenScale.h"
+#import "UIButton+BackImage.h"
+#import "UIButton+Color.h"
+#import "UIImage+Extension.h"
+#import "UIImage+Tint.h"
+#import "NSDate+Formatter.h"
+#import "ProgressHUD.h"
+#import "UILabel+Extension.h"
+#import "UIView+Extension.h"
+#import "UIImageView+Extentsion.h"
+#import "ThemeColorManager.h"
+#import "BaseTC.h"
+#import "BaseVC.h"
+#import "WKWebViewController.h"
+#import "ReminderView.h"
+#import "NetWorks.h"
+#import "AccountManager.h"
+#import "NSObject+Property.h"
+#import "APPManager.h"
+
+/**************** token类,baseUrl,盐,appkey ****************/
+#define AirBike_Url_Domain @"https://airbike.wrteach.com"
+#define AirBike_Salt       @"AIRBIKESALT"
+//token值
+#define GLOBAL_TOKEN        [AccountManager token]     //bac70d24a5c7125ff9f82bbd722f9dd5
+#define GLOBAL_ISREGFRESH   [AccountManager shareAccountManager].isRefresh
+//个人信息管理
+#define GLOBAL_MANAGER      [AccountManager shareAccountManager]
+//友盟
+#define UMAPPKEY        @"58a2a9dff5ade408cd00085a"
+#define UM_WEIXINSECRET @"413083c7383d3ff8562f1d6fc863a376"
+#define UM_QQAPPKEY     @"1105911649"
+#define UM_SINAAPPKEY   @"2292377034"
+#define UM_SINASECRET   @"d1464e807339cbee80fdfa1c693831bd"
+//微信
+#define WEIXINAPPKEY    @"wxcd9ad6964ba38982"
+//高德
+#define AMAPAPPKEY      @"caf0a35c3cfb75ef2d96974f594b93f0"
+//bugly
+#define BUGLYAPPID      @"2c8afeb634"
+
+/**************** 屏幕尺寸相关 ****************/
+#define GLOBAL_SCREENW      SCREEN_WIDTH
+#define GLOBAL_SCREENH      SCREEN_HEIGHT
+#define GLOBAL_KEYWINDOW    [UIApplication sharedApplication].keyWindow
+#define SCREEN_HEIGHT       [UIScreen mainScreen].bounds.size.height
+#define SCREEN_WIDTH        [UIScreen mainScreen].bounds.size.width
+#define GLOBAL_TOP          (self.navigationController.navigationBar.translucent ? 64 : 0)
+//水平尺寸自适应
+#define GLOBAL_SCALEH [ScreenScale shareScale].scaleH
+#define GLOBAL_H(x) x * GLOBAL_SCALEH
+//垂直尺寸自适应
+#define GLOBAL_SCALEV [ScreenScale shareScale].scaleV
+#define GLOBAL_V(y) y * GLOBAL_SCALEV
+#define GLOBAL_KEYWINDOW [UIApplication sharedApplication].keyWindow
+
+/**************** 颜色类 ****************/
+//主题颜色
+#define GLOBAL_THEMECOLOR       [ThemeColorManager shareThemeColorManager].tintColor
+//辅助色
+#define GLOBAL_ASSISTCOLOR      [ThemeColorManager shareThemeColorManager].assistColor
+//标题色
+#define GLOBAL_TITLECOLOR       [ThemeColorManager shareThemeColorManager].titleColor
+//正文色
+#define GLOBAL_CONTENTCOLOR     [ThemeColorManager shareThemeColorManager].contentColor
+//辅助说明色
+#define GLOBAL_ILLUSTRATECOLOR  [ThemeColorManager shareThemeColorManager].illustrateColor
+#define RGB(__red,__green,__blue) [UIColor colorWithRed:__red/255.0 green:__green/255.0 blue:__blue/255.0 alpha:1]
+
+/**************** 本地化和NSLog处理 ****************/
+// 重定义本地化字符串访问
+#define GLOBAL_STR(__key__) (NSLocalizedString(__key__, @""))
+
+#ifdef DEBUG
+//#define NSLog(fmt,...) NSLog((@"%s [Line %d] " fmt),__PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__)
+//#else
+//#define NSLog(...)
+#endif
+
+#endif
+
+

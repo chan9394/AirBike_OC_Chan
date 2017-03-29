@@ -1,0 +1,107 @@
+10
+
+dir
+467
+https://chenkun@192.168.1.200/svn/xbike/client_ios/source/Airbike/Pods
+https://chenkun@192.168.1.200/svn/xbike
+
+
+
+2017-03-09T10:22:31.304769Z
+359
+zhuyulong
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c29005fc-1ebd-2346-bc07-d4ef54a0e385
+
+AirBk.xcworkspace
+dir
+
+YYModel
+dir
+
+Bugly
+dir
+
+UMengUShare
+dir
+
+MBProgressHUD
+dir
+
+Local Podspecs
+dir
+
+SAMKeychain
+dir
+
+Manifest.lock
+file
+
+
+
+
+2017-03-29T02:42:11.000000Z
+c8d18af9124a2682069545fc11818444
+2017-03-09T10:22:31.304769Z
+359
+zhuyulong
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2180
+
+AFNetworking
+dir
+
+Pods.xcodeproj
+dir
+
+AMap3DMap
+dir
+
+AMapSearch
+dir
+
+AMapFoundation
+dir
+
+Target Support Files
+dir
+
+SDWebImage
+dir
+
+Headers
+dir
+

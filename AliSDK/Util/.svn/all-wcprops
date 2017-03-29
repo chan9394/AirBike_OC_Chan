@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/xbike/!svn/ver/201/client_ios/source/Airbike/AliSDK/Util
+END
+base64.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/xbike/!svn/ver/201/client_ios/source/Airbike/AliSDK/Util/base64.m
+END
+MD5DataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/xbike/!svn/ver/81/client_ios/source/Airbike/AliSDK/Util/MD5DataSigner.m
+END
+RSADataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/xbike/!svn/ver/81/client_ios/source/Airbike/AliSDK/Util/RSADataSigner.m
+END
+DataVerifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/xbike/!svn/ver/81/client_ios/source/Airbike/AliSDK/Util/DataVerifier.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/xbike/!svn/ver/81/client_ios/source/Airbike/AliSDK/Util/config.h
+END
+NSDataEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/xbike/!svn/ver/81/client_ios/source/Airbike/AliSDK/Util/NSDataEx.h
+END
+DataVerifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/xbike/!svn/ver/81/client_ios/source/Airbike/AliSDK/Util/DataVerifier.m
+END
+RSADataVerifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/xbike/!svn/ver/81/client_ios/source/Airbike/AliSDK/Util/RSADataVerifier.h
+END
+NSDataEx.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/xbike/!svn/ver/120/client_ios/source/Airbike/AliSDK/Util/NSDataEx.m
+END
+RSADataVerifier.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/xbike/!svn/ver/81/client_ios/source/Airbike/AliSDK/Util/RSADataVerifier.m
+END
+DataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/xbike/!svn/ver/81/client_ios/source/Airbike/AliSDK/Util/DataSigner.h
+END
+openssl_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/xbike/!svn/ver/81/client_ios/source/Airbike/AliSDK/Util/openssl_wrapper.h
+END
+base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/xbike/!svn/ver/81/client_ios/source/Airbike/AliSDK/Util/base64.h
+END
+DataSigner.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/xbike/!svn/ver/81/client_ios/source/Airbike/AliSDK/Util/DataSigner.m
+END
+MD5DataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/xbike/!svn/ver/81/client_ios/source/Airbike/AliSDK/Util/MD5DataSigner.h
+END
+RSADataSigner.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/xbike/!svn/ver/81/client_ios/source/Airbike/AliSDK/Util/RSADataSigner.h
+END
+openssl_wrapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/xbike/!svn/ver/81/client_ios/source/Airbike/AliSDK/Util/openssl_wrapper.m
+END

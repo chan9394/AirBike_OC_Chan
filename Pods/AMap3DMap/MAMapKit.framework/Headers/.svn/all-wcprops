@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers
+END
+MAOfflineCity.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAOfflineCity.h
+END
+MAAnimatedAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAAnimatedAnnotation.h
+END
+MAPolygonRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAPolygonRenderer.h
+END
+MAOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAOverlay.h
+END
+MAPolylineRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAPolylineRenderer.h
+END
+MAOfflineItemNationWide.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAOfflineItemNationWide.h
+END
+MAMapVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAMapVersion.h
+END
+MAPointAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAPointAnnotation.h
+END
+MAOverlayPathRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAOverlayPathRenderer.h
+END
+MAMapKit.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAMapKit.h
+END
+MATileOverlayRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MATileOverlayRenderer.h
+END
+MAGroundOverlayRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAGroundOverlayRenderer.h
+END
+MAPolygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAPolygon.h
+END
+MATraceLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MATraceLocation.h
+END
+MAOfflineItemMunicipality.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAOfflineItemMunicipality.h
+END
+MATraceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MATraceManager.h
+END
+MAPolyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAPolyline.h
+END
+MATileOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MATileOverlay.h
+END
+MAGroundOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAGroundOverlay.h
+END
+MAOfflineItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAOfflineItem.h
+END
+MAOfflineItemCommonCity.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAOfflineItemCommonCity.h
+END
+MAConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAConfig.h
+END
+MAAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAAnnotationView.h
+END
+MAIndoorInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAIndoorInfo.h
+END
+MAUserLocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAUserLocation.h
+END
+MALineDrawType.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MALineDrawType.h
+END
+MAAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAAnnotation.h
+END
+MAPinAnnotationView.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAPinAnnotationView.h
+END
+MAMultiTexturePolylineRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAMultiTexturePolylineRenderer.h
+END
+MAOfflineMap.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAOfflineMap.h
+END
+MAMapStatus.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAMapStatus.h
+END
+MAOfflineProvince.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAOfflineProvince.h
+END
+MACircleRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MACircleRenderer.h
+END
+MATouchPoi.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MATouchPoi.h
+END
+MAGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAGeometry.h
+END
+MAGeodesicPolyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAGeodesicPolyline.h
+END
+MAHeatMapTileOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAHeatMapTileOverlay.h
+END
+MAShape.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAShape.h
+END
+MAAnnotationMoveAnimation.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAAnnotationMoveAnimation.h
+END
+MACircle.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MACircle.h
+END
+MAMultiPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAMultiPoint.h
+END
+MAMultiColoredPolylineRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAMultiColoredPolylineRenderer.h
+END
+MAMultiPolyline.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAMultiPolyline.h
+END
+MAOverlayRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAOverlayRenderer.h
+END
+MAMapView.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/xbike/!svn/ver/195/client_ios/source/Airbike/Pods/AMap3DMap/MAMapKit.framework/Headers/MAMapView.h
+END

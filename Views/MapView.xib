@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="16D32" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina5_5" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="cI1-qc-XuM" customClass="MapView">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <button opaque="NO" tag="10" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" adjustsImageWhenHighlighted="NO" adjustsImageWhenDisabled="NO" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6de-PI-pyM">
+                    <rect key="frame" x="8" y="601" width="50" height="50"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="6de-PI-pyM" secondAttribute="height" multiplier="1:1" id="Wkq-x4-0a3"/>
+                        <constraint firstAttribute="height" constant="50" id="fzU-9x-AuJ"/>
+                    </constraints>
+                    <state key="normal" image="imgs_main_refresh.png"/>
+                    <state key="disabled" backgroundImage="l"/>
+                    <state key="highlighted" image="imgs_main_refresh_highlighted.png"/>
+                    <connections>
+                        <action selector="clickRefreshMobikeBtn:" destination="cI1-qc-XuM" eventType="touchUpInside" id="zcj-XQ-BOK"/>
+                    </connections>
+                </button>
+                <button opaque="NO" tag="13" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dG1-qb-Q2m">
+                    <rect key="frame" x="348" y="666" width="50" height="50"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="dG1-qb-Q2m" secondAttribute="height" multiplier="1:1" id="NtM-LX-xns"/>
+                        <constraint firstAttribute="width" constant="50" id="qGR-e8-1F7"/>
+                    </constraints>
+                    <state key="normal" image="imgs_main_service_normal.png"/>
+                    <state key="highlighted" image="imgs_main_service_highlighted.png"/>
+                    <connections>
+                        <action selector="clickServerBtn:" destination="cI1-qc-XuM" eventType="touchUpInside" id="L7g-c5-gNT"/>
+                    </connections>
+                </button>
+                <button autoresizesSubviews="NO" opaque="NO" alpha="0.5" tag="12" contentMode="center" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="taO-OZ-BpW">
+                    <rect key="frame" x="132.33333333333331" y="658.66666666666652" width="149.33333333333331" height="57.333333333333371"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="taO-OZ-BpW" secondAttribute="height" multiplier="13:5" id="Ozd-vC-YT0"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <inset key="contentEdgeInsets" minX="5" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <inset key="titleEdgeInsets" minX="10" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="10" maxY="0.0"/>
+                    <state key="normal" title="扫码开锁" image="imgs_main_scan.png" backgroundImage="imgs_mian_scan_unlock.png"/>
+                    <state key="highlighted" backgroundImage="imgs_mian_scan_unlock_press.png"/>
+                    <connections>
+                        <action selector="clickScan2DBbtn:" destination="cI1-qc-XuM" eventType="touchUpInside" id="Jb3-Ti-Vdm"/>
+                    </connections>
+                </button>
+                <button opaque="NO" tag="11" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dah-8k-fTh">
+                    <rect key="frame" x="8" y="666" width="50" height="50"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="dah-8k-fTh" secondAttribute="height" multiplier="1:1" id="AIn-Zl-nEB"/>
+                        <constraint firstAttribute="width" constant="50" id="K7c-h1-vFf"/>
+                    </constraints>
+                    <state key="normal" image="imgs_main_location_normal.png"/>
+                    <state key="highlighted" image="imgs_main_location_highlighted.png"/>
+                    <connections>
+                        <action selector="clickMapUserLocationBtn:" destination="cI1-qc-XuM" eventType="touchUpInside" id="sWh-jT-Kod"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="hHh-wg-bC3">
+                    <rect key="frame" x="44" y="29" width="35" height="35"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="hHh-wg-bC3" secondAttribute="height" multiplier="1:1" id="ZMa-Nq-bhN"/>
+                    </constraints>
+                    <state key="normal" image="imgs_main_product_info_normal.png">
+                        <color key="titleShadowColor" red="1" green="0.50196081400000003" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    </state>
+                    <state key="highlighted" image="imgs_main_product_info_highlighted.png"/>
+                    <connections>
+                        <action selector="actionProductIntroBtn:" destination="cI1-qc-XuM" eventType="touchUpInside" id="eEb-PY-R1o"/>
+                    </connections>
+                </button>
+                <button opaque="NO" clipsSubviews="YES" tag="15" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="3Fw-Nf-hsd">
+                    <rect key="frame" x="104" y="26" width="260" height="42"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="42" id="7l3-Pd-lc4"/>
+                    </constraints>
+                    <state key="normal" image="imgs_main_intro_normal.png">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="titleShadowColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="highlighted" image="imgs_main_intro_highlighted.png"/>
+                    <connections>
+                        <action selector="clickInstructionBtn:" destination="cI1-qc-XuM" eventType="touchUpInside" id="grv-wF-eSK"/>
+                    </connections>
+                </button>
+                <imageView userInteractionEnabled="NO" tag="16" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="imgs_main_refresh_background.png" translatesAutoresizingMaskIntoConstraints="NO" id="bDh-vx-cNP">
+                    <rect key="frame" x="14" y="608" width="38" height="38"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="bDh-vx-cNP" secondAttribute="height" multiplier="1:1" id="981-1v-F71"/>
+                        <constraint firstAttribute="width" constant="38" id="Igz-Fk-4Qz"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="hHh-wg-bC3" firstAttribute="centerY" secondItem="3Fw-Nf-hsd" secondAttribute="centerY" id="3aM-dZ-LQ2"/>
+                <constraint firstItem="bDh-vx-cNP" firstAttribute="centerY" secondItem="6de-PI-pyM" secondAttribute="centerY" constant="0.5" id="3ps-2x-Kdb"/>
+                <constraint firstItem="bDh-vx-cNP" firstAttribute="centerX" secondItem="6de-PI-pyM" secondAttribute="centerX" id="71Q-i0-Ohk"/>
+                <constraint firstAttribute="bottom" secondItem="dG1-qb-Q2m" secondAttribute="bottom" constant="20" id="AQe-DH-FaT"/>
+                <constraint firstAttribute="bottom" secondItem="taO-OZ-BpW" secondAttribute="bottom" constant="20" id="Ebf-pB-OC4"/>
+                <constraint firstItem="dah-8k-fTh" firstAttribute="leading" secondItem="cI1-qc-XuM" secondAttribute="leading" constant="8" id="GoC-k6-sPh"/>
+                <constraint firstItem="3Fw-Nf-hsd" firstAttribute="leading" secondItem="hHh-wg-bC3" secondAttribute="trailing" constant="25" id="Nt8-2J-2YG"/>
+                <constraint firstAttribute="trailing" secondItem="dG1-qb-Q2m" secondAttribute="trailing" constant="16" id="Ocy-9e-p0a"/>
+                <constraint firstItem="taO-OZ-BpW" firstAttribute="centerX" secondItem="cI1-qc-XuM" secondAttribute="centerX" id="Owr-2u-oLH"/>
+                <constraint firstItem="dah-8k-fTh" firstAttribute="top" secondItem="6de-PI-pyM" secondAttribute="bottom" constant="15" id="RRP-jv-BJq"/>
+                <constraint firstAttribute="trailing" secondItem="3Fw-Nf-hsd" secondAttribute="trailing" constant="50" id="Xao-WT-fG7"/>
+                <constraint firstItem="taO-OZ-BpW" firstAttribute="width" secondItem="cI1-qc-XuM" secondAttribute="width" multiplier="0.36" id="Xwo-zl-WuW"/>
+                <constraint firstItem="6de-PI-pyM" firstAttribute="leading" secondItem="cI1-qc-XuM" secondAttribute="leading" constant="8" id="c1a-1R-vcn"/>
+                <constraint firstAttribute="bottom" secondItem="dah-8k-fTh" secondAttribute="bottom" constant="20" id="fB2-NL-VBe"/>
+                <constraint firstItem="3Fw-Nf-hsd" firstAttribute="top" secondItem="cI1-qc-XuM" secondAttribute="top" constant="26" id="hWz-7H-qI2"/>
+                <constraint firstItem="hHh-wg-bC3" firstAttribute="leading" secondItem="cI1-qc-XuM" secondAttribute="leading" constant="44" id="p3T-1i-qoZ"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <connections>
+                <outlet property="documentBtn" destination="3Fw-Nf-hsd" id="p1F-8x-hJK"/>
+                <outlet property="documentLayoutH" destination="7l3-Pd-lc4" id="EKm-hf-Tyb"/>
+                <outlet property="productIntroBtn" destination="hHh-wg-bC3" id="3xK-sM-tzn"/>
+                <outlet property="refreshBackgroundIv" destination="bDh-vx-cNP" id="962-yB-yqX"/>
+                <outlet property="refreshBtn" destination="6de-PI-pyM" id="n8f-FG-BHu"/>
+            </connections>
+            <point key="canvasLocation" x="-912.5" y="-2295.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="imgs_main_intro_highlighted.png" width="225" height="35"/>
+        <image name="imgs_main_intro_normal.png" width="225" height="35"/>
+        <image name="imgs_main_location_highlighted.png" width="38" height="38"/>
+        <image name="imgs_main_location_normal.png" width="38" height="38"/>
+        <image name="imgs_main_product_info_highlighted.png" width="35" height="35"/>
+        <image name="imgs_main_product_info_normal.png" width="35" height="35"/>
+        <image name="imgs_main_refresh.png" width="22" height="22"/>
+        <image name="imgs_main_refresh_background.png" width="39" height="38"/>
+        <image name="imgs_main_refresh_highlighted.png" width="36" height="37"/>
+        <image name="imgs_main_scan.png" width="25" height="25"/>
+        <image name="imgs_main_service_highlighted.png" width="38" height="37"/>
+        <image name="imgs_main_service_normal.png" width="38" height="37"/>
+        <image name="imgs_mian_scan_unlock.png" width="135" height="56"/>
+        <image name="imgs_mian_scan_unlock_press.png" width="135" height="56"/>
+        <image name="l" width="16" height="16"/>
+    </resources>
+</document>

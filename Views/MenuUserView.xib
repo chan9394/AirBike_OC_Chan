@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="N3B-Bd-hOH" customClass="MenuUserView">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="291"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="imgs_menu_unlogin_background" translatesAutoresizingMaskIntoConstraints="NO" id="u2g-zH-Y2i">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="291"/>
+                    <rect key="contentStretch" x="0.0" y="0.0" width="0.10000000000000001" height="0.29999999999999999"/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" enabled="NO" contentHorizontalAlignment="center" contentVerticalAlignment="center" adjustsImageWhenDisabled="NO" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uKI-nz-AF5">
+                    <rect key="frame" x="141" y="80" width="94" height="94"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="uKI-nz-AF5" secondAttribute="height" multiplier="1:1" id="dt8-bs-ryg"/>
+                    </constraints>
+                    <size key="titleShadowOffset" width="5" height="0.0"/>
+                    <state key="normal" image="imgs_menu_person.png">
+                        <color key="titleShadowColor" red="1" green="0.54214036710000002" blue="0.37806991220000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                </button>
+                <button opaque="NO" tag="100" contentMode="scaleToFill" horizontalHuggingPriority="252" verticalHuggingPriority="252" horizontalCompressionResistancePriority="749" verticalCompressionResistancePriority="749" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gRy-Cd-K48">
+                    <rect key="frame" x="141" y="189" width="93" height="38"/>
+                    <color key="backgroundColor" red="0.92549019610000005" green="0.46666666670000001" blue="0.46666666670000001" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="gRy-Cd-K48" secondAttribute="height" multiplier="93:30" constant="-24.799999999999997" id="9q3-cU-jNv"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                    <state key="normal" title="登录/注册"/>
+                    <connections>
+                        <action selector="clickRegisterBtn:" destination="N3B-Bd-hOH" eventType="touchUpInside" id="xb6-7O-YsH"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="gRy-Cd-K48" firstAttribute="top" secondItem="uKI-nz-AF5" secondAttribute="bottom" constant="15" id="4bs-1s-Xwe"/>
+                <constraint firstItem="u2g-zH-Y2i" firstAttribute="leading" secondItem="N3B-Bd-hOH" secondAttribute="leading" id="BY7-Oq-tW8"/>
+                <constraint firstItem="uKI-nz-AF5" firstAttribute="width" secondItem="N3B-Bd-hOH" secondAttribute="width" multiplier="0.25" id="LTR-CM-vpI"/>
+                <constraint firstItem="gRy-Cd-K48" firstAttribute="width" secondItem="N3B-Bd-hOH" secondAttribute="height" multiplier="31:97" id="NW4-YO-8Z7"/>
+                <constraint firstItem="u2g-zH-Y2i" firstAttribute="top" secondItem="N3B-Bd-hOH" secondAttribute="top" id="QBJ-eC-pcR"/>
+                <constraint firstAttribute="trailing" secondItem="u2g-zH-Y2i" secondAttribute="trailing" id="QyE-M1-Iu9"/>
+                <constraint firstItem="uKI-nz-AF5" firstAttribute="centerX" secondItem="N3B-Bd-hOH" secondAttribute="centerX" id="UFk-19-AQS"/>
+                <constraint firstItem="uKI-nz-AF5" firstAttribute="top" secondItem="N3B-Bd-hOH" secondAttribute="top" constant="80" id="YBY-Ao-RJp"/>
+                <constraint firstAttribute="bottom" secondItem="u2g-zH-Y2i" secondAttribute="bottom" id="l1G-uW-vwM"/>
+                <constraint firstItem="gRy-Cd-K48" firstAttribute="centerX" secondItem="N3B-Bd-hOH" secondAttribute="centerX" id="qRX-L3-3K8"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="userBtn" destination="gRy-Cd-K48" id="bly-Ig-ioy"/>
+                <outlet property="userIcon" destination="uKI-nz-AF5" id="Oj6-sU-rcu"/>
+            </connections>
+            <point key="canvasLocation" x="-2053.5" y="-2181.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="imgs_menu_person.png" width="64" height="64"/>
+        <image name="imgs_menu_unlogin_background" width="750" height="500"/>
+    </resources>
+</document>

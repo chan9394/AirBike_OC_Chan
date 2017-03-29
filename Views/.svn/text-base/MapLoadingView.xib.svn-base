@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11762" systemVersion="16A323" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="YTG-iV-d9K" customClass="MapLoadingView">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="zQq-cl-WiX">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                </imageView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="1wr-a0-kdr">
+                    <rect key="frame" x="113" y="294" width="150" height="80"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="imgs_main_load.png" translatesAutoresizingMaskIntoConstraints="NO" id="kjf-HW-si0">
+                            <rect key="frame" x="55.5" y="18" width="39" height="25"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="39" id="LIO-1x-Chh"/>
+                                <constraint firstAttribute="height" constant="25" id="roj-bJ-otx"/>
+                            </constraints>
+                        </imageView>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="玩命儿加载中..." textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PDG-xl-4yf">
+                            <rect key="frame" x="0.0" y="51" width="150" height="17"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" red="0.40000000600000002" green="0.40000000600000002" blue="0.40000000600000002" alpha="0.59085352891156462" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstItem="kjf-HW-si0" firstAttribute="centerX" secondItem="1wr-a0-kdr" secondAttribute="centerX" id="LUa-m8-zDp"/>
+                        <constraint firstItem="kjf-HW-si0" firstAttribute="top" secondItem="1wr-a0-kdr" secondAttribute="top" constant="18" id="P1b-hL-z3M"/>
+                        <constraint firstItem="PDG-xl-4yf" firstAttribute="leading" secondItem="1wr-a0-kdr" secondAttribute="leading" id="QHz-wY-opN"/>
+                        <constraint firstAttribute="trailing" secondItem="PDG-xl-4yf" secondAttribute="trailing" id="R3W-L5-Ac9"/>
+                        <constraint firstAttribute="width" constant="150" id="UHc-gX-6Jj"/>
+                        <constraint firstItem="PDG-xl-4yf" firstAttribute="top" secondItem="kjf-HW-si0" secondAttribute="bottom" constant="8" id="WLe-PG-zjA"/>
+                        <constraint firstAttribute="height" constant="80" id="qd1-Xf-1t0"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.66666666666666663" alpha="0.0" colorSpace="calibratedWhite"/>
+            <color key="tintColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="zQq-cl-WiX" firstAttribute="top" secondItem="YTG-iV-d9K" secondAttribute="top" id="2Ks-T9-qEs"/>
+                <constraint firstItem="zQq-cl-WiX" firstAttribute="leading" secondItem="YTG-iV-d9K" secondAttribute="leading" id="8xE-Ts-rZu"/>
+                <constraint firstItem="1wr-a0-kdr" firstAttribute="centerX" secondItem="YTG-iV-d9K" secondAttribute="centerX" id="Quj-ha-Sxg"/>
+                <constraint firstAttribute="bottom" secondItem="zQq-cl-WiX" secondAttribute="bottom" id="a8j-jT-fZM"/>
+                <constraint firstAttribute="trailing" secondItem="zQq-cl-WiX" secondAttribute="trailing" id="bgf-m8-2eK"/>
+                <constraint firstItem="1wr-a0-kdr" firstAttribute="centerY" secondItem="YTG-iV-d9K" secondAttribute="centerY" id="mUA-1B-wSd"/>
+            </constraints>
+            <connections>
+                <outlet property="backIv" destination="zQq-cl-WiX" id="nKp-Vw-SQ0"/>
+                <outlet property="containerView" destination="1wr-a0-kdr" id="0md-ZN-aLR"/>
+            </connections>
+            <point key="canvasLocation" x="-3.5" y="10.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="imgs_main_load.png" width="39" height="22"/>
+    </resources>
+</document>
